@@ -4008,11 +4008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WebTemplate - App\\WebTemplate.csproj",
+      "projectUniqueName": "E:\\Make-It-Cozy\\WebTemplate - App\\WebTemplate.csproj",
       "projectName": "WebTemplate",
-      "projectPath": "E:\\WebTemplate - App\\WebTemplate.csproj",
+      "projectPath": "E:\\Make-It-Cozy\\WebTemplate - App\\WebTemplate.csproj",
       "packagesPath": "C:\\Users\\Nemanja Stojadinovic\\.nuget\\packages\\",
-      "outputPath": "E:\\WebTemplate - App\\obj\\",
+      "outputPath": "E:\\Make-It-Cozy\\WebTemplate - App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nemanja Stojadinovic\\AppData\\Roaming\\NuGet\\NuGet.Config",

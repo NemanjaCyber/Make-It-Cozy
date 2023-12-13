@@ -14,7 +14,9 @@ namespace Models
 
         [JsonIgnore]
         public Biljka? Biljka {get;set;}
+        [JsonIgnore]
         public Lampa? Lampa {get;set;}
+        [JsonIgnore]
         public Saksija? Saksija{get;set;}
     }
 }
